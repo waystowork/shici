@@ -7,6 +7,6 @@ image: "/images/call-to-action.png"
 description: "加入海棠诗社，共赏诗词之美，和社友共享诗词的快乐时光"
 button:
   enable: true
-  label: "🔥 每日一诗"
-  link: "/today"
+  label: "🔥 诗词集"
+  link: "/collections"
 ---

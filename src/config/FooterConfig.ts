@@ -43,7 +43,7 @@ export const footerConfig = {
         },
     ],
     secondaryLinks: [
-        { text: '服务条款', href: '/terms-of-service' },
+        { text: '鲁ICP备16010262号-13', href: 'https://beian.miit.gov.cn/' },
         { text: '隐私政策', href: '/privacy-policy' },
         { text: '站点地图', href: '/sitemap-index.xml' },
         { text: '关于诗社', href: '/about' },

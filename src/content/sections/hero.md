@@ -8,8 +8,8 @@ image: "@/assets/hero.png"
 
 primaryButton:
   enable: true
-  label: "🔥 每日一诗"
-  link: "/today"
+  label: "🔥 朝代检索"
+  link: "/dynasties"
 
 secondaryButton:
   enable: true
