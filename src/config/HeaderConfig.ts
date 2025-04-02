@@ -14,7 +14,11 @@ export const headerConfig = {
     },
     {
       text: '元曲',
-      href: '/collections/3',
+      href: '/collections/109',
+    },
+    {
+      text: '诗集',
+      href: '/collections',
     },
     // {
     //   text: '诗词 + AI',
