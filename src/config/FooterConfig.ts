@@ -4,7 +4,7 @@ export const footerConfig = {
             title: '网站导航',
             links: [
                 // { text: '诗词 + AI', href: '/ai' },
-                { text: '每日一诗', href: '/today' },
+                { text: 'DLCN', href: 'https://szsyw.cn' },
                 { text: '所有诗集', href: '/collections' },
                 { text: '所有朝代', href: '/dynasties' },
                 { text: '所有诗人', href: '/authors' },
