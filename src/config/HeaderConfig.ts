@@ -4,6 +4,18 @@ export const headerConfig = {
       text: '首页',
       href: '/',
     },
+    {
+      text: '唐诗',
+      href: '/collections/1',
+    },
+    {
+      text: '宋词',
+      href: '/collections/2',
+    },
+    {
+      text: '元曲',
+      href: '/collections/3',
+    },
     // {
     //   text: '诗词 + AI',
     //   href: '/ai',

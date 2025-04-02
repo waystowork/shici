@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "海棠诗社",
+    "title": "海棠诗社-古诗词网",
     "base_url": "https://shici.diglit.cn",
     "base_path": "/",
     "trailing_slash": false,
@@ -25,6 +25,6 @@
   "metadata": {
     "meta_author": "海棠诗社",
     "meta_image": "/images/screenshot.png",
-    "meta_description": "海棠诗社，古诗词的数字桃源"
+    "meta_description": "海棠诗社，古诗词的数字桃源,古诗词网,唐诗三百首,宋词三百首"
   }
 }
